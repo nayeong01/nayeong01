@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnayeong01&count_bg=%23C2E1FF&title_bg=%235791BE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=olive_yeong@naver.com)](https://solved.ac/olive_yeong@naver.com/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k01676)](https://solved.ac/k01676/)
 <!--
 **nayeong01/nayeong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
